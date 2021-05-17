@@ -24,7 +24,7 @@ To install and run project, you must have NPM installed.
     npm install
 
 
-## Deploy & Verify the contract
+## Deploy the contract
 
 1. Compile the project
 
@@ -35,8 +35,3 @@ To install and run project, you must have NPM installed.
 
     ```shell
     npx hardhat run --network rinkeby deploy/deploy.js
-
-1. Verify the contract on rinkeby
-
-    ```shell
-    npx hardhat verify --network rinkeby 0x2F893a254900D2dA68ce2E71AFaC67146e045951 "CustomBarcelonaCoin" "CBLNC" "100000000000000000000000"
