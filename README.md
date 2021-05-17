@@ -14,8 +14,8 @@ To install and run project, you must have NPM installed.
 1. Clone this repository and move into the project directory:
 
     ```shell
-    git clone https://github.com/yusefnapora/minty
-    cd minty
+    git clone https://github.com/polaris-labs/BCToken-Uni
+    cd BCToken-Uni
     ```
 
 1. Install the NPM dependencies:
